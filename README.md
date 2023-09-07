@@ -1,2 +1,2 @@
 # FU_projects
-Here are a few projects and hws that I implemented while studying at a Financial University
+Here is a course work that I implemented while studying at the university
